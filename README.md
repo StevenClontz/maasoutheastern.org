@@ -1,5 +1,3 @@
-# MAASouthEastern.org
-
 Website for the Southeastern Section of the MAA
 
 ![logo](./logo.png)
