@@ -2,6 +2,12 @@ Website for the Southeastern Section of the MAA
 
 ![logo](./logo.png)
 
+## Spring 2026 Section Meeting
+
+**March 26-28** at the [University of North Alabama](https://www.una.edu/math/)
+
+More details coming soon.
+
 ## Spring 2025 Section Newsletter
 
 [Download as PDF.](./2025-spring-newsletter.pdf)
