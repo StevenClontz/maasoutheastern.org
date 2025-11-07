@@ -1,6 +1,6 @@
 Website for the Southeastern Section of the MAA
 
-![logo](./logo.png)
+![logo](./assets/maa-se-states.webp)
 
 ## Spring 2026 Section Meeting
 
@@ -11,8 +11,6 @@ More details coming soon.
 ## Spring 2025 Section Newsletter
 
 [Download as PDF.](./2025-spring-newsletter.pdf)
-
-[![screnshot of newsletter](./newsletter.png)](./2025-spring-newsletter.pdf)
 
 ## Under construction
 
